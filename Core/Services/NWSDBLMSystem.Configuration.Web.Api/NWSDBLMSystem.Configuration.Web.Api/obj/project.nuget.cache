@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "JPI7zY8L6Pgxk6wv+7OPfDXFqcWRFgn0MIfF2l0RuiijLS8aJ/f/CsfuTY1gTAgG+1eebA8XVSb8E5nttVubsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\supun\\OneDrive\\Documents\\MSC-Project\\NWSDB_Land_Managment_System\\Core\\Services\\NWSDBLMSystem.Configuration.Web.Api\\NWSDBLMSystem.Configuration.Web.Api\\NWSDBLMSystem.Configuration.Web.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\supun\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\supun\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\supun\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512",
+    "C:\\Users\\supun\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\supun\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\supun\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\supun\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
